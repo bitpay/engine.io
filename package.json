@@ -27,7 +27,7 @@
   "dependencies": {
     "base64id": "0.1.0",
     "debug": "2.1.3",
-    "ws": "0.8.0",
+    "ws": "https://github.com/bitpay/ws#2b94cd6d72a53e97f8777b60605383537e5d3b19",
     "engine.io-parser": "1.2.2",
     "accepts": "1.1.4"
   },
